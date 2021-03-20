@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @MysteriousLog6
-- 👀 I’m interested in Android , C++
-- 🌱 I’m currently learning C++
+Interested in() {
+C++;
+Android;
+}
