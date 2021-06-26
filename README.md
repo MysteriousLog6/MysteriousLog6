@@ -1,5 +1,5 @@
 # My name is MysteriousLog6 
-### (I'm Mysterious [not batman])
+### (I'm Mysterious [*batman*])
 
 ## Im ok with:
 - C++
