@@ -4,4 +4,4 @@
 ## Im ok with:
 - C++
 - C (Still learning)
-- Git (Dont know how to push properly yet...)
+- Git (Don't know how to stop using --force..)
